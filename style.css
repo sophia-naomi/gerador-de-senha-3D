@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cause:wght@100..900&display=swap');
+
+;root{
+    --branco:white;
+    --cor-e-fundo:#9CB080;
+    --fundo-senha:#618764;
+    --fundo-texto:#2B5748;
+    --borda:#273338;
+    --cause:"Cause", cursive;
+
+}
+*{
+    font-weight:400;
+}
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--cause);
+}
